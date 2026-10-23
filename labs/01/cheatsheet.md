@@ -1,5 +1,11 @@
-- Text:  used to format documents, write web pages, draft code documentation, and take notes using simple symbols like hashtags and asterisks instead of complex HTML tags
-- Lists: Does create lists for structured listing
+# Explanations 
+[Text](#Text)
+
+# Text
+used to format documents, write web pages, draft code documentation, and take notes using simple symbols like hashtags and asterisks instead of complex HTML tags
+
+# Lists
+Does create lists for structured listing
 - Links and images: advices to links and images on other or the same website. Images can be added to the repository
 - Code: has a syntax how its written and creates something
-- Quotes: 
+- Quotes: serve to connect your text to outside resources or highlight cited text
