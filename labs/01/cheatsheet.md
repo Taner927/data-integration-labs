@@ -105,3 +105,13 @@
 
 - [x] done
 ~~no longer true~~
+
+### Notes
+
+**Markdown** . Makes a note / warning / Tip
+
+>[!Note]
+*Das ist ne notiz*
+
+>[!Tip]
+*Das ist n Tipp*
