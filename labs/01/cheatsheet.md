@@ -40,7 +40,7 @@
 
 ```markdown
 [Link text](https://example.com)
-![Alt text](image.png)
+[Alt text](image.png)
 ```
 
 [Link text](https://example.com)
