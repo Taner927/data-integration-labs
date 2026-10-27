@@ -8,6 +8,7 @@
 - [Tables](#tables)
 - [Layout](#layout)
 - [GitHub-Extras](#github-extras)
+- [Notiz/Tip](#Notes)
 
 
 ### Text
