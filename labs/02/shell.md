@@ -12,4 +12,8 @@
 - for this, use ```pwd```
 - /c/Users/taner for my dictionary
 - /c/Users/taner/Downloads for my Download file
--  
+-  >[!Note]
+   *pwd nutze ich um den pfadnamen vom dictionary herauszufinden.*
+   *cd Downloads bringt mich in den downloads ordner.*
+   *dann nochmal pwd zeigt mir den  pfadnamen für den dowenlaods ordner.*
+   *um zurückzugehen einfach cd wieder schreiben.*
