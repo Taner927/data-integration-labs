@@ -13,8 +13,26 @@
 - /c/Users/taner for my dictionary
 - /c/Users/taner/Downloads for my Download file
 
-  >[Note]
-   *pwd nutze ich um den pfadnamen vom dictionary herauszufinden.*
-   *cd Downloads bringt mich in den downloads ordner.*
-   *dann nochmal pwd zeigt mir den  pfadnamen für den dowenlaods ordner.*
-   *um zurückzugehen einfach cd wieder schreiben.*
+>[!Note]
+*```pwd``` nutze ich um den pfadnamen vom dictionary herauszufinden.*
+*cd Downloads bringt mich in den downloads ordner.*
+*dann nochmal pwd zeigt mir den  pfadnamen für den dowenlaods ordner.*
+*um zurückzugehen einfach cd wieder schreiben.*
+
+## 3) Where do commands come from? How many directories are in your PATH, and which one is searched first? Where are curl, python3 and git installed? 
+
+- number of directories in path: 21
+- used code:```echo $PATH | tr ":" "\n```
+- python3 ist in : /c/Users/taner/AppData/Local/Microsoft/WindowsApps/python3
+- curl ist in : /ucrt64/bin/curl
+- git ist in : /ucrt64/bin/git
+
+## 4) How full is your disk? How much space is left on it, and how much space do your downloads take up?
+
+- for that, use df -h
+- result: available 370G and used: 106G
+- Download file has : 1.4G used.
+- How: du -sh Download
+>[!Note]
+* du - sh und dann der name des ordners von dem du gb benutzt haben willst*
+
