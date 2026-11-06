@@ -4,7 +4,7 @@
 - ### ```echo $0``` finds the name:
 - Name : /usr/bin/bash
 
-- ### ```bash --version``` or ```zsh --version``` finds its version
+- ### ```bash --version``` finds its version
 - version : GNU bash, version 5.3.15(2)-release (x86_64-pc-cygwin)
 
 ## 2) Where am I? Which absolute path does your shell print for your home directory and for your downloads folder?
