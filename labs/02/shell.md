@@ -33,6 +33,11 @@
 - result: available 370G and used: 106G
 - Download file has : 1.4G used.
 - How: du -sh Download
->[!Note]
-* du - sh und dann der name des ordners von dem du gb benutzt haben willst*
 
+>[!Note]
+>* du - sh und dann der name des ordners von dem du gb benutzt haben willst*
+
+## 5)Run sleep 600 in one terminal window: it does nothing for ten minutes, like a script that hangs. In a second window, find its process ID with ps aux | grep sleep and stop it with kill and the ID. What does the first window show? Why does ps aux | grep sleep list two processes?
+
+- The first Window shows ,,terminated" and ,,sleep 600"
+- The first process shows the ID of the sleep 600 comand and the second one shows in which shell it runs and when it started
